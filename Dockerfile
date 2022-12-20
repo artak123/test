@@ -1,2 +1,2 @@
-FROM: ubuntu
+FROM ubuntu
 ENTRYPOINT ["/bin/bash"]
